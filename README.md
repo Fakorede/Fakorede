@@ -14,9 +14,9 @@
 
 ## Hi 👋,
 
-My name is Abiola pka Fab. I am a graduate of Computer Science(2019)👨‍🎓 and a Fullstack Software Developer👨🏽‍💻.
+My name is Abiola pka Fab. I am a graduate of Computer Science(2019)👨🏽‍🎓 and a Fullstack Software Developer 👨🏽‍💻.
  
-- 🔭 I’m currently doing fullstack developement Vue JS and Laravel ❤️.
+- 🔭 I’m currently doing fullstack developement with Vue JS and Laravel ❤️.
 - 🌱 I’m currently learning GO, React, Spring Boot and improving on my Laravel/Vue skills.
 - 💻👯 I’m looking to work on awesome product(s) where I get to apply my skills as part of a fast-paced, quality-driven team and impact millions of lives positively.
 - ⚡ Fun fact: I love Chess, Monopoly and I would love to explore new places, cultures, and definitely learn a new language.
@@ -35,8 +35,8 @@ My name is Abiola pka Fab. I am a graduate of Computer Science(2019)👨‍🎓 
 
 Although, while I have a understanding of frontend frameworks and can work in a Fullstack role, I'm preferrably a Backend developer 🚀.
 
-# Life Principle
+# Life Principle 👨🏽‍🏫
 
-Always Stay Committed To My Goals and Never Give Up. Practice Patience, Perseverence, Resilience and Keep Growing At All Times.
+To Always Stay Committed To My Goals and Never Give Up. Practice Patience, Perseverence, Resilience and Keep Growing At All Times.
 
 
