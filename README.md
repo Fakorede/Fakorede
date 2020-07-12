@@ -14,7 +14,7 @@
 
 I am Fakorede Abiola. I am a graduate of Computer Science(2019) 👨🏽‍🎓 and an experienced Fullstack Software Developer 👨🏽‍💻.
 
-![Fab](fab.png "Fakorede Abiola")
+![Fab](https://github.com/Fakorede/Fakorede/blob/master/fab.png "Fakorede Abiola")
 
 
 - 🔭 I’m currently doing fullstack developement with Vue JS and Laravel ❤️.
