@@ -17,8 +17,8 @@ I am Fakorede Abiola. I am a graduate of Computer Science(2019) 👨🏽‍🎓 
 ![Fab](https://github.com/Fakorede/Fakorede/blob/master/fab.png "Fakorede Abiola")
 
 
-- 🔭 I’m currently doing fullstack developement with Vue JS and Laravel ❤️.
-- 🌱 I’m currently learning GO, React, Spring Boot and improving on my Laravel/Vue skills.
+- 🔭 I’m currently doing fullstack developement with Vue JS 💚 and Laravel ❤️.
+- 🌱 I’m currently improving on my Laravel/Vue skills for building fullstack applications. I also love Golang 💙.
 - 💻👯 I’m looking to work on awesome product(s) where I get to apply my skills as part of a fast-paced, quality-driven team and impact millions of lives positively.
 - ⚡ Fun fact: I love Chess, Monopoly and I would love to explore new places, cultures, and definitely learn a new language.
 - 📫 How to reach me: [Gmail](mailto:abiolafakorede@gmail.com)
@@ -28,9 +28,9 @@ I am Fakorede Abiola. I am a graduate of Computer Science(2019) 👨🏽‍🎓 
 ```
 {
   languages: ['PHP', 'Python', 'Java', 'JavaScript', 'GO'],
-  backend: ['Laravel', 'Django', 'Node.js'],
-  database: ['MySql, PostgresSQL', 'MongoDB', 'Redis'],
-  frontend: ['jQuery', 'Vue JS', 'React']
+  backend: ['Laravel', 'Node.js'],
+  frontend: ['jQuery', 'Vue JS', 'Vuex'],
+  database: ['MySql, PostgresSQL', 'MongoDB', 'Redis']
 }
 ```
 
