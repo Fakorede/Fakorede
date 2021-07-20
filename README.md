@@ -11,7 +11,7 @@
 
 ## Hi 👋🏽,
 
-I am Fakorede Abiola. I am a graduate of Computer Science (2019) 👨🏽‍🎓 and an experienced Fullstack Software Developer 👨🏽‍💻.
+I am Fakorede Abiola, a graduate of Computer Science 👨🏽‍🎓 and an experienced Fullstack Software Developer 👨🏽‍💻.
 
 <!-- ![Fab](https://github.com/Fakorede/Fakorede/blob/master/fab.png "Fakorede Abiola") -->
 
@@ -26,11 +26,12 @@ I am Fakorede Abiola. I am a graduate of Computer Science (2019) 👨🏽‍🎓
 
 ```
 {
-  languages: ['PHP', 'JavaScript', 'GO', 'Python', 'Java', 'Dart'],
-  backend: ['Laravel', 'Node.js', 'Golang'],
+  languages: ['PHP', 'JavaScript', 'GO'],
   frontend: ['Vue.js', 'Vuex', 'React.js', 'Redux'],
+  backend: ['Laravel', 'Node.js', 'Golang'],
   mobile: ['React Native'],
-  database: ['MySql', 'MSSQL', 'PostgresSQL', 'MongoDB']
+  database: ['MySql', 'MSSQL', 'PostgresSQL', 'MongoDB', 'Redis', 'Firebase'],
+  orms: ['Eloquent', 'Sequelize', 'Gorm']
 }
 ```
 
