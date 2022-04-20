@@ -5,15 +5,14 @@
 
 <!-- # Fakorede Abiola -->
 
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-abiolafakorede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fakorede/)](https://www.linkedin.com/in/fakorede/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/6883910/abiola)](https://stackoverflow.com/users/6883910/abiola) -->
 <!-- [![Gmail Badge](https://img.shields.io/badge/-abiolafakorede@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abiolafakorede@gmail.com)](mailto:abiolafakorede@gmail.com) -->
 
 <div align="center">
   I am a full-stack PHP and Javascript developer, from Nigeria.
   <br />
   My main stack is <b>Laravel</b>, <b>Vue</b>, <b>Tailwind CSS</b>, <b>Livewire</b> and <b>Inertia</b>. I prefer <b>Backend</b> over <b>Frontend</b> and I'm in love with <b>Golang</b>.
-  <br />
-[![Linkedin Badge](https://img.shields.io/badge/-abiolafakorede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fakorede/)](https://www.linkedin.com/in/fakorede/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/6883910/abiola)](https://stackoverflow.com/users/6883910/abiola)
   <br />
   <br />
 </div>
@@ -29,8 +28,9 @@ I am Fakorede Abiola, a graduate of Computer Science 👨🏽‍🎓 and an expe
 - 🔭 I’m currently working professionally with Vue JS 💚 and Laravel ❤️.
 - 🌱 Out of work, I delve into other technologies as well. I'm currently exploring and do enjoy Golang 💙 a lot as well as AWS.
 - 💻👯 I’m always looking forward to work on awesome product(s) where I get to apply my skills as part of a fast-paced, quality-driven team.
+- 🗒️ I contibute occasionally on [StackOverflow](https://stackoverflow.com/users/6883910/abiola)
 - ⚡ Fun fact: I love board games and I enjoy travelling ✈️.
-- 📫 Reach out to me via: [Gmail](mailto:abiolafakorede@gmail.com) or [LinkedIn](https://www.linkedin.com/in/fakorede/)
+- 📫 Reach out to me via: [LinkedIn](https://www.linkedin.com/in/fakorede/)
 
 ## {...} My Stack 💻🚀
 
