@@ -16,11 +16,10 @@
   <br />
   My main stack is <b>Laravel</b>, <b>Vue</b>, <b>Tailwind CSS</b>, <b>Livewire</b> and <b>Inertia</b>. I prefer <b>Backend</b> over <b>Frontend</b> and I'm in love with <b>Golang</b>.
   <br />
-  <br />
 </div>
 
 <hr/>
- <br />
+
 
 
 <!-- ## Hi 👋🏽,
