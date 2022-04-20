@@ -9,6 +9,13 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/6883910/abiola)](https://stackoverflow.com/users/6883910/abiola)
 [![Gmail Badge](https://img.shields.io/badge/-abiolafakorede@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abiolafakorede@gmail.com)](mailto:abiolafakorede@gmail.com)
 
+<div align="center">
+  I am a full-stack PHP and Javascript developer, from Nigeria.
+  <br />
+  My main stack is <b>Laravel</b>, <b>Vue</b>, <b>Tailwind CSS</b>, <b>Livewire</b> and <b>Inertia</b>. I prefer <b>Backend</b> over <b>Frontend</b> and I'm in love with <b>Golang</b>.
+</div>
+
+
 ## Hi 👋🏽,
 
 I am Fakorede Abiola, a graduate of Computer Science 👨🏽‍🎓 and an experienced Fullstack Software Developer 👨🏽‍💻.
@@ -17,9 +24,9 @@ I am Fakorede Abiola, a graduate of Computer Science 👨🏽‍🎓 and an expe
 
 
 - 🔭 I’m currently working professionally with Vue JS 💚 and Laravel ❤️.
-- 🌱 Out of work, I delve into other technologies listed below and i'm quite proficient with them.
+- 🌱 Out of work, I delve into other technologies.
 - 💻👯 I’m always looking forward to work on awesome product(s) where I get to apply my skills as part of a fast-paced, quality-driven team.
-- ⚡ Fun fact: I love Chess, Monopoly and I love travels and exploration ✈️.
+- ⚡ Fun fact: I love board games and I enjoy travelling ✈️.
 - 📫 Reach out to me via: [Gmail](mailto:abiolafakorede@gmail.com) or [LinkedIn](https://www.linkedin.com/in/fakorede/)
 
 ## {...} My Stack 💻🚀
@@ -31,12 +38,9 @@ I am Fakorede Abiola, a graduate of Computer Science 👨🏽‍🎓 and an expe
   backend: ['Laravel', 'Node.js', 'Golang'],
   mobile: ['React Native'],
   database: ['MySql', 'MSSQL', 'PostgresSQL', 'MongoDB', 'Redis', 'Firebase'],
-  orms: ['Eloquent', 'Sequelize', 'Gorm']
+  orms: ['Eloquent', 'Sequelize', 'Gorm'],
+  others: ['AWS', 'Digital Ocean', 'Linux'],
 }
 ```
 
 While I have the ability to work with different technologies across stacks, I'm preferrably a Backend developer 🚀.
-
-# Life Principle 👨🏽‍🏫
-
-To Always Stay Committed To My Goals and Never Get Carried Away while Practicing Patience, Perseverence, Resilience and To Keep Learning and Growing At All Times.
