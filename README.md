@@ -14,7 +14,7 @@
 <div align="center">
   I'm a full-stack PHP and Javascript developer from Nigeria.
   <br />
-  My main stack is <b>Laravel</b>, <b>Vue</b>, <b>Tailwind CSS</b>, <b>Livewire</b> and <b>Inertia</b>. I prefer <b>Backend</b> over <b>Frontend</b> and I'm in love with <b>Golang</b>.
+  My main stack is <b>Laravel</b>, <b>Vue</b>, <b>Tailwind CSS</b>, <b>Livewire</b> and <b>Inertia</b> and I'm in love with <b>Golang</b>.
   <br />
 </div>
 
