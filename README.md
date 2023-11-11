@@ -29,25 +29,23 @@ I am Fakorede Abiola, a graduate of Computer Science 👨🏽‍🎓 and an expe
 <!-- ![Fab](https://github.com/Fakorede/Fakorede/blob/master/fab.png "Fakorede Abiola") -->
 
 
-- 🔭 I’m currently working professionally with Vue JS 💚 and Laravel ❤️.
+<!-- - 🔭 I’m currently working professionally with Vue JS 💚 and Laravel ❤️.
 - 🌱 Out of work, I delve into other technologies as well. I'm currently exploring and do enjoy Golang 💙 a lot as well as AWS.
 - 💻👯 I’m always looking forward to work on awesome product(s) where I get to apply my skills as part of a fast-paced, quality-driven team.
 - 🗒️ I contibute occasionally on [StackOverflow](https://stackoverflow.com/users/6883910/abiola)
 - ⚡ Fun fact: I love board games and I enjoy travelling ✈️.
-- 📫 Reach out to me via: [LinkedIn](https://www.linkedin.com/in/fakorede/)
+- 📫 Reach out to me via: [LinkedIn](https://www.linkedin.com/in/fakorede/) -->
 
 ## {...} My Stack 💻🚀
 
 ```
 {
-  languages: ['PHP', 'JavaScript', 'GO'],
+  languages: ['PHP', 'JavaScript', 'Java', 'GO'],
   frontend: ['Vue.js', 'Vuex', 'React.js', 'Redux'],
-  backend: ['Laravel', 'Node.js', 'Golang'],
-  mobile: ['React Native'],
+  backend: ['Laravel', 'Node.js', 'Golang', 'Spring Boot'],
   database: ['MySql', 'MSSQL', 'PostgresSQL', 'MongoDB', 'Redis', 'Firebase'],
-  orms: ['Eloquent', 'Sequelize', 'Gorm'],
   others: ['AWS', 'Digital Ocean', 'Linux'],
 }
 ```
 
-While I have the ability to work with different technologies across stacks, I'm preferrably a Backend developer 🚀.
+<!-- While I have the ability to work with different technologies across stacks, I'm preferrably a Backend developer 🚀. -->
