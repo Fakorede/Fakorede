@@ -9,12 +9,13 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/6883910/abiola)](https://stackoverflow.com/users/6883910/abiola) -->
 <!-- [![Gmail Badge](https://img.shields.io/badge/-abiolafakorede@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abiolafakorede@gmail.com)](mailto:abiolafakorede@gmail.com) -->
 
-# Hello, 👋🏾
+# Hello, I am Abiola 👋🏾
 
 <div align="center">
-  I'm a full-stack PHP and Javascript developer from Nigeria.
+  Computer Scientist, Software Engineer and Researcher.
   <br />
-  My main stack is <b>Laravel</b>, <b>Vue</b>, <b>Tailwind CSS</b>, <b>Livewire</b> and <b>Inertia</b> and I'm in love with <b>Golang</b>.
+  
+  Conducting innovative research utilizing <b>Program Analysis/b> techniques on both <b>Web/b> and <b>Android/b> platforms.
   <br />
 </div>
 
@@ -29,19 +30,18 @@ I am Fakorede Abiola, a graduate of Computer Science 👨🏽‍🎓 and an expe
 <!-- ![Fab](https://github.com/Fakorede/Fakorede/blob/master/fab.png "Fakorede Abiola") -->
 
 
-<!-- - 🔭 I’m currently working professionally with Vue JS 💚 and Laravel ❤️.
-- 🌱 Out of work, I delve into other technologies as well. I'm currently exploring and do enjoy Golang 💙 a lot as well as AWS.
-- 💻👯 I’m always looking forward to work on awesome product(s) where I get to apply my skills as part of a fast-paced, quality-driven team.
+🔭 I’m currently a PhD student at LSU 💜.
+- 🌱 I'm very passionate about what I do, and enjoy learning new stuffs.
+- 💻 I’m always looking forward to work on groundbreaking research in Software Engineering.
 - 🗒️ I contibute occasionally on [StackOverflow](https://stackoverflow.com/users/6883910/abiola)
 - ⚡ Fun fact: I love board games and I enjoy travelling ✈️.
-- 📫 Reach out to me via: [LinkedIn](https://www.linkedin.com/in/fakorede/) -->
+- 📫 Reach out to me via: [LinkedIn](https://www.linkedin.com/in/fakorede/)
 
 ## {...} My Stack 💻🚀
 
 ```
 {
-  languages: ['PHP', 'JavaScript', 'Java', 'GO'],
-  frontend: ['Vue.js', 'Vuex', 'React.js', 'Redux'],
+  languages: ['PHP', 'JavaScript', 'Java', 'Python', 'GO'],
   backend: ['Laravel', 'Node.js', 'Golang', 'Spring Boot'],
   database: ['MySql', 'MSSQL', 'PostgresSQL', 'MongoDB', 'Redis', 'Firebase'],
   others: ['AWS', 'Digital Ocean', 'Linux'],
