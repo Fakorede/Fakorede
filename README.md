@@ -30,7 +30,7 @@ I am Fakorede Abiola, a graduate of Computer Science 👨🏽‍🎓 and an expe
 <!-- ![Fab](https://github.com/Fakorede/Fakorede/blob/master/fab.png "Fakorede Abiola") -->
 
 
-🔭 I’m currently a PhD student at LSU 💜.
+🔭 I’m currently a Graduate student at LSU 💜.
 - 🌱 I'm very passionate about what I do, and enjoy learning new stuffs.
 - 💻 I’m always looking forward to work on groundbreaking research in Software Engineering.
 - 🗒️ I contibute occasionally on [StackOverflow](https://stackoverflow.com/users/6883910/abiola)
