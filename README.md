@@ -15,7 +15,7 @@
   Computer Scientist, Software Engineer and Researcher.
   <br />
   
-  Conducting innovative research utilizing <b>Program Analysis</b> techniques on both <b>Web</b> and <b>Android</b> platforms.
+  Conducting innovative research utilizing <b>Program Analysis</b> and <b>Machine Learning</b> techniques on <b>Mobile</b> platforms.
   <br />
 </div>
 
