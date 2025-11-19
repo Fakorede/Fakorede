@@ -1,51 +1,66 @@
-<!--
-**Fakorede/Fakorede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Moshood Fakorede
 
--->
+**PhD Student in Computer Science @ LSU**  
+Distributed Systems • Software Engineering • Program Analysis
 
-<!-- # Fakorede Abiola -->
+Building reliable software systems through the intersection of academic research and production engineering. Currently developing automated techniques to detect and prevent software defects in large-scale applications.
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-abiolafakorede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fakorede/)](https://www.linkedin.com/in/fakorede/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/6883910/abiola)](https://stackoverflow.com/users/6883910/abiola) -->
-<!-- [![Gmail Badge](https://img.shields.io/badge/-abiolafakorede@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abiolafakorede@gmail.com)](mailto:abiolafakorede@gmail.com) -->
+[🌐 Website](https://thefabdev.com) • [💼 LinkedIn](https://www.linkedin.com/in/fakorede/) • [📧 Email](mailto:abiolafakorede@gmail.com)
 
-# Hello, I am Abiola 👋🏾
+---
 
-<div align="center">
-  Computer Scientist, Software Engineer and Researcher.
-  <br />
-  
-  Conducting innovative research utilizing <b>Program Analysis</b> and <b>Machine Learning</b> techniques on <b>Mobile</b> platforms.
-  <br />
-</div>
+## Research & Education
 
-<hr/>
+**Louisiana State University** | 2024 - Present  
+PhD & MS in Computer Science
 
+Specializing in program analysis for software reliability. Building automated detection frameworks for platform-specific API misuses in mobile applications using static analysis tools (Flowdroid, Soot).
 
+**Current Work:**  
+Paper in submission: *"Understanding and Detecting Platform-Specific Violations in Android Auto Apps"* (IEEE AST 2026)
 
-<!-- ## Hi 👋🏽,
+---
 
-I am Fakorede Abiola, a graduate of Computer Science 👨🏽‍🎓 and an experienced Fullstack Software Developer 👨🏽‍💻. -->
+## Experience Highlights
 
-<!-- ![Fab](https://github.com/Fakorede/Fakorede/blob/master/fab.png "Fakorede Abiola") -->
+**5+ years** building scalable distributed systems and microservices in production environments
 
+- Architected microservices handling millions of requests with high availability
+- Implemented service discovery, API gateways, and resilience patterns
+- Drove end-to-end ownership from design through deployment and monitoring
+- Applied data-driven approaches to translate business requirements into technical solutions
 
-🔭 I’m currently a Graduate student at LSU 💜.
-- 🌱 I'm very passionate about what I do, and enjoy learning new stuffs.
-- 💻 I’m always looking forward to work on groundbreaking research in Software Engineering.
-- 🗒️ I contibute occasionally on [StackOverflow](https://stackoverflow.com/users/6883910/abiola)
-- ⚡ Fun fact: I love board games and I enjoy travelling ✈️.
-- 📫 Reach out to me via: [LinkedIn](https://www.linkedin.com/in/fakorede/)
+---
 
-## {...} My Stack 💻🚀
+## Featured Projects
 
-```
-{
-  languages: ['PHP', 'JavaScript', 'Java', 'Python', 'GO'],
-  backend: ['Laravel', 'Node.js', 'Golang', 'Spring Boot'],
-  database: ['MySql', 'MSSQL', 'PostgresSQL', 'MongoDB', 'Redis', 'Firebase'],
-  others: ['AWS', 'Digital Ocean', 'Linux'],
-}
-```
+**[spring-boot-microservices](https://github.com/Fakorede/spring-boot-microservices)**  
+Production-ready microservices ecosystem with service discovery, distributed tracing, and fault-tolerant patterns
 
-<!-- While I have the ability to work with different technologies across stacks, I'm preferrably a Backend developer 🚀. -->
+**[skin-cancer-classification](https://github.com/Fakorede/skin-cancer-classification)**  
+Medical image analysis using CNN architectures and PyTorch for automated diagnosis
+
+**[olist-big-data-analysis](https://github.com/Fakorede/olist-big-data-analysis)**  
+Large-scale e-commerce analytics with Apache Spark and GCP Dataproc
+
+---
+
+## Technical Stack
+
+**Core:** Java • Python • Spring Boot • Spring Cloud  
+**Cloud & Infrastructure:** AWS • Docker • Kubernetes • Terraform  
+**Data & Analysis:** Apache Spark • PostgreSQL • MongoDB • Redis  
+**Research Tools:** PyTorch • Flowdroid • Soot
+
+AWS Certified AI Practitioner | AWS Developer Associate (In Progress)
+
+---
+
+## Currently
+
+🔬 Researching automated defect detection in mobile applications  
+💼 Seeking Summer internships in Software Engineering, Distributed Systems or Software Reliability  
+
+---
+
+*When not coding: board games enthusiast and travel explorer ✈️*
