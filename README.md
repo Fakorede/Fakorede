@@ -1,7 +1,6 @@
 # Moshood Fakorede
-
 **PhD Student in Computer Science @ LSU**  
-Distributed Systems • Software Engineering • Program Analysis
+Software Engineering • Software Testing(Program Analysis) • Distributed Systems
 
 Building reliable software systems through the intersection of academic research and production engineering. Currently developing automated techniques to detect and prevent software defects in large-scale applications.
 
@@ -34,8 +33,11 @@ Paper in submission: *"Understanding and Detecting Platform-Specific Violations 
 
 ## Featured Projects
 
-**[spring-boot-microservices](https://github.com/Fakorede/spring-boot-microservices)**  
+**[spring-boot-microservices](https://github.com/Fakorede/java-springboot-microservices)**  
 Production-ready microservices ecosystem with service discovery, distributed tracing, and fault-tolerant patterns
+
+**[kafka-springboot-microservices](https://github.com/Fakorede/kafka-springboot-microservices)**  
+Event-driven microservices architecture demonstrating asynchronous communication patterns with Apache Kafka and Spring Boot
 
 **[skin-cancer-classification](https://github.com/Fakorede/skin-cancer-classification)**  
 Medical image analysis using CNN architectures and PyTorch for automated diagnosis
@@ -48,8 +50,8 @@ Large-scale e-commerce analytics with Apache Spark and GCP Dataproc
 ## Technical Stack
 
 **Core:** Java • Python • Spring Boot • Spring Cloud  
-**Cloud & Infrastructure:** AWS • Docker • Kubernetes • Terraform  
-**Data & Analysis:** Apache Spark • PostgreSQL • MongoDB • Redis  
+**Cloud & Infrastructure:** AWS • GCP • Terraform • Docker • Kubernetes 
+**Distributes Systtems & Data Analysis:** Kafka • Apache Spark • MySQL • MongoDB • Redis  
 **Research Tools:** PyTorch • Flowdroid • Soot
 
 AWS Certified AI Practitioner | AWS Developer Associate (In Progress)
