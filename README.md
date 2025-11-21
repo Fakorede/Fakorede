@@ -50,8 +50,8 @@ Large-scale e-commerce analytics with Apache Spark and GCP Dataproc
 ## Technical Stack
 
 **Core:** Java • Python • Spring Boot • Spring Cloud  
-**Cloud & Infrastructure:** AWS • GCP • Terraform • Docker • Kubernetes 
-**Distributes Systems & Data Analysis:** Kafka • Apache Spark • MySQL • MongoDB • Redis  
+**Cloud & Infrastructure:** AWS • GCP • Terraform • Docker • Kubernetes  
+**Distributed Systems & Data Analysis:** Kafka • Apache Spark • MySQL • MongoDB • Redis  
 **Research Tools:** Soot • Flowdroid • PyTorch
 
 AWS Certified AI Practitioner | AWS Developer Associate (In Progress)
