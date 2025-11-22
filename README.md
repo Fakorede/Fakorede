@@ -1,5 +1,5 @@
 # Moshood Fakorede
-**PhD Student in Computer Science @ LSU**  
+**Graduate Student in Computer Science @ LSU**  
 Software Engineering • Software Testing(Program Analysis) • Distributed Systems
 
 Building reliable software systems through the intersection of academic research and production engineering. Currently developing automated techniques to detect and prevent software defects in large-scale applications.
