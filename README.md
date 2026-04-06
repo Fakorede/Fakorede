@@ -24,7 +24,7 @@ B.Sc. Computer Science | GPA: 3.5
 
 **MobileDev-Bench** — Designed and built a benchmark of 384 real-world issue-resolution tasks across 18 production mobile apps (Android, React Native, Flutter). Evaluated four frontier LLMs (GPT, Claude, Gemini, Qwen), revealing that even the best models achieve only 3.39–5.21% resolution rates — exposing a critical gap in mobile software engineering capability. ([arXiv:2603.24946](https://arxiv.org/abs/2603.24946), under review at EMNLP)
 
-**AutoComply** — Built a static analysis framework using a Car-Control Flow Graph (CCFG) to detect platform-specific compliance violations in Android Auto apps. Detected 27 violations across 31 apps — 13× more than Android Lint — with zero false positives. (Published at [AST 2026](https://arxiv.org/abs/2503.04003))
+**AutoComply** — Built a novel static analysis framework using our proposed Car-Control Flow Graph (CCFG) to detect platform-specific compliance violations in Android Auto apps. Detected 27 violations across 31 apps — 13× more than Android Lint — with zero false positives. (Published at [AST 2026](https://arxiv.org/abs/2503.04003))
 
 **SpecForge** *(in progress)* — Designing an agentic LLM system that integrates AI agents with formal verification workflows (OpenJML, KeY) to automate specification synthesis and bug detection in Java and Kotlin programs.
 
@@ -73,15 +73,15 @@ AWS Certified AI Practitioner | AWS Developer Associate *(in progress)*
 
 ## Honors & Service
 
-🏆 Excellence in Computer Science Research, AIR Program (LSU), 2026  
 <!-- 🏆 Love of Learning Award, Phi Kappa Phi — funded LLM research for SpecForge ($1,000)   -->
+🏆 Excellence in Computer Science Research, AIR Program (LSU), 2026  
 🏆 Phi Kappa Phi, Top 10% Graduate Students, LSU, 2026  
 <!-- 🏆 Sigma Xi, Scientific Research Honor Society, 2026 -->
 
-📋 Reviewer — Artifact Evaluation, The Web Conference (WWW) 2026  
-📋 Reviewer — Artifact Evaluation, MobiSys 2026  
-📋 Reviewer — Artifact Evaluation, PETS 2026  
-📋 Judge — LSU Discover Day Undergraduate Research Conference, 2026
+📋 Member, Artifact Evaluation Committee, The Web Conference (WWW) 2026  
+📋 Member, Artifact Evaluation Committee, MobiSys 2026  
+📋 Member, Artifact Evaluation Committee, PETS 2026  
+📋 Judge, LSU Discover Day Undergraduate Research Conference, 2026
 
 ---
 
