@@ -76,7 +76,7 @@ AWS Certified AI Practitioner | AWS Developer Associate *(in progress)*
 <!-- 🏆 Love of Learning Award, Phi Kappa Phi — funded LLM research for SpecForge ($1,000)   -->
 🏆 Excellence in Computer Science Research, AIR Program (LSU), 2026  
 🏆 Phi Kappa Phi, Top 10% Graduate Students, LSU, 2026  
-<!-- 🏆 Sigma Xi, Scientific Research Honor Society, 2026 -->
+🏆 Sigma Xi, Scientific Research Honor Society, 2026
 
 📋 Member, Artifact Evaluation Committee, The Web Conference (WWW) 2026  
 📋 Member, Artifact Evaluation Committee, MobiSys 2026  
