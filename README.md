@@ -1,96 +1,86 @@
 # Moshood Fakorede
-**PhD Candidate in Computer Science @ LSU**  
+**PhD Student in Computer Science @ LSU**  
 Software Reliability • Program Analysis • AI4SE
-
-Researching program analysis and agentic AI to improve the reliability and correctness of software systems.
 
 [🌐 Website](http://fakorede.github.io/) • [💼 LinkedIn](https://www.linkedin.com/in/fakorede/) • [📧 Email](mailto:mfakor1@lsu.edu) • [📄 arXiv](https://arxiv.org/search/?searchtype=author&query=Fakorede) • [🎓 Google Scholar](https://scholar.google.com/citations?hl=en&user=tORh0rMAAAAJ)
 
 ---
 
-## Research & Education
+I study reliability challenges in mobile and AI-assisted software systems, advised by [Dr. Umar Farooq](https://csc.lsu.edu/~ufarooq/) at Louisiana State University. My work combines static program analysis and LLM benchmarking to detect defects and evaluate developer tools — across Android and mobile platforms.
 
-**Louisiana State University** | Jan 2024 – Present  
-PhD in Computer Science | GPA: 4.0
-
-Specializing in program analysis, agentic AI, and AI4SE. Researching automated techniques to detect software defects and evaluate the reliability of AI-powered developer tools.
-
-**Federal University of Abeokuta** | May 2019  
-B.Sc. Computer Science | GPA: 3.5
-
----
-
-## Research Highlights
-
-**MobileDev-Bench** — Designed and built a benchmark of 384 real-world issue-resolution tasks across 18 production mobile apps (Android, React Native, Flutter). Evaluated four frontier LLMs (GPT, Claude, Gemini, Qwen), revealing that even the best models achieve only 3.39–5.21% resolution rates — exposing a critical gap in mobile software engineering capability. ([arXiv:2603.24946](https://arxiv.org/abs/2603.24946), under review at EMNLP)
-
-**AutoComply** — Built a novel static analysis framework using our proposed Car-Control Flow Graph (CCFG) to detect platform-specific compliance violations in Android Auto apps. Detected 27 violations across 31 apps — 13× more than Android Lint — with zero false positives. (Published at [AST 2026](https://arxiv.org/abs/2503.04003))
-
-**SpecForge** *(in progress)* — Designing an agentic LLM system that integrates AI agents with formal verification workflows (OpenJML, KeY) to automate specification synthesis and bug detection in Java and Kotlin programs.
+<!-- **PhD in Computer Science, LSU** | Jan 2024 – Present | GPA: 4.0 -->
 
 ---
 
 ## Publications
 
-- **MobileDev-Bench: A Comprehensive Benchmark for Evaluating LLMs on Mobile Application Development** — Under review at EMNLP ([arXiv:2603.24946](https://arxiv.org/abs/2603.24946))
-- **Understanding and Detecting Platform-Specific Violations in Android Auto Apps** — Accepted at IEEE/ACM AST 2026 ([arXiv:2503.04003](https://arxiv.org/abs/2503.04003))
-- **Understanding Bugs in Quantum Simulators: An Empirical Study** — Under review at OOPSLA ([arXiv:2603.22789](https://arxiv.org/abs/2603.22789))
+**[Understanding and Detecting Platform-Specific Violations in Android Auto Apps](https://arxiv.org/abs/2503.04003)**  
+Moshood A. Fakorede, Umar Farooq  
+*IEEE/ACM AST 2026 — Oral Presentation*  
+Built AutoComply, a static analysis framework using a Car-Control Flow Graph (CCFG) to detect compliance violations in Android Auto apps. Detected 27 violations across 31 apps — 13× more than Android Lint — with zero false positives.  
+[[DOI]](https://doi.org/10.1145/3793654.3793745) [[arXiv]](https://arxiv.org/abs/2503.04003) [[Code]](https://github.com/Fakorede/autocomply)
+
+**[MobileDev-Bench: A Benchmark for Issue Resolution in Mobile Application Development](https://arxiv.org/abs/2603.24946)**  
+Moshood A. Fakorede, Krishna Upadhyay, A.B. Siddique, Umar Farooq  
+*Under Review*  
+A benchmark of 407 real-world issue-resolution tasks across 19 production mobile apps (Android, React Native, Flutter). Frontier LLMs achieve only 3.39–5.21% resolution rates, exposing a critical gap in mobile SE capability.  
+[[arXiv]](https://arxiv.org/abs/2603.24946) [[Website]](https://mobiledev-bench.github.io/) [[Dataset]](https://huggingface.co/datasets/MobileDev-Bench/mobiledev-bench)
+
+**[Understanding Bugs in Quantum Simulators: An Empirical Study](https://arxiv.org/abs/2603.22789)**  
+Krishna Upadhyay, Moshood Fakorede, Umar Farooq  
+*Under Review*  
+[[arXiv]](https://arxiv.org/abs/2603.22789)
 
 ---
 
-## Featured Projects
+## Stack
 
-**[AutoComply](https://github.com/Fakorede/autocomply)** | Java, Python, Soot  
-Static analysis framework using a Car-Control Flow Graph (CCFG) to detect platform-specific compliance violations in Android Auto apps; found 27 violations across 31 apps — 13× more than Android Lint — with zero false positives (AST 2026)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**[MobileDev-Bench](https://github.com/Fakorede)** | Python, GitHub API, HuggingFace, Android, React Native, Flutter  
-Benchmark of 384 real-world mobile issue-resolution tasks with a compilation-aware automated evaluation pipeline for frontier LLMs
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**[spring-boot-microservices](https://github.com/Fakorede/java-springboot-microservices)** | Java, Spring Boot, Docker, GKE  
-Production-ready microservices ecosystem with service discovery, distributed tracing, and circuit-breaker fault-tolerance patterns
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
-**[kafka-springboot-microservices](https://github.com/Fakorede/kafka-springboot-microservices)** | Java, Spring Boot, Kafka  
-Event-driven microservices architecture demonstrating asynchronous communication with Apache Kafka
-
-**[skin-cancer-classification](https://github.com/Fakorede/skin-cancer-classification)** | Python, PyTorch, Streamlit  
-Benchmarked CNN architectures on HAM10000; EfficientNet-B2 achieved 87.47% accuracy, exceeding average dermatologist accuracy (77.6%)
-
-**[olist-big-data-analysis](https://github.com/Fakorede/olist-big-data-analysis)** | Python, Apache Spark, GCP  
-Distributed analytics pipeline on GCP Dataproc processing 100K+ records; reduced query execution time by 70% over single-node baseline
-
----
-
-## Technical Stack
-
-**Languages & Frameworks:** Java • Python • Spring Boot • JavaScript • Node.js • FastAPI  
-**ML & AI:** PyTorch • HuggingFace • LangChain • LangGraph • RAG • LLM Evaluation & Benchmarking  
-**Cloud & Infrastructure:** AWS • GCP • Docker • Kubernetes • Kafka • Apache Spark • MySQL • MongoDB  
-**Research Tools:** Soot • FlowDroid • OpenJML • KeY • SLURM/HPC
-
-AWS Certified AI Practitioner | AWS Developer Associate *(in progress)*
+![Soot](https://img.shields.io/badge/Soot-555555?style=flat-square)
+![FlowDroid](https://img.shields.io/badge/FlowDroid-555555?style=flat-square)
+![Jazzer](https://img.shields.io/badge/Jazzer-555555?style=flat-square)
+![SLURM](https://img.shields.io/badge/SLURM%2FHPC-555555?style=flat-square)
 
 ---
 
 ## Honors & Service
 
-<!-- 🏆 Love of Learning Award, Phi Kappa Phi — funded LLM research for SpecForge ($1,000)   -->
-🏆 Excellence in Computer Science Research, AIR Program (LSU), 2026  
+🏆 Sigma Xi, The Scientific Research Honor Society, 2026  
 🏆 Phi Kappa Phi, Top 10% Graduate Students, LSU, 2026  
-🏆 Sigma Xi, Scientific Research Honor Society, 2026
+🏆 Excellence in Computer Science Research, AIR Program (LSU), 2026
 
-📋 Member, Artifact Evaluation Committee, The Web Conference (WWW) 2026  
-📋 Member, Artifact Evaluation Committee, MobiSys 2026  
-📋 Member, Artifact Evaluation Committee, PETS 2026  
-📋 Judge, LSU Discover Day Undergraduate Research Conference, 2026
+**Artifact Evaluation PC:** CCS · CAIS · The Web Conference (WWW) · MobiSys · PETS  
+**Judge:** LSU Discover Day Undergraduate Research & Creativity Conference, 2026
+
+---
+
+## Teaching
+
+Teaching Assistant, LSU Department of Computer Science & Engineering
+
+- **CSC 3380: Object Oriented Design** — Spring 2024, Spring 2025
+- **CSC 4101: Programming Languages** — Fall 2024, Fall 2025
 
 ---
 
 ## Currently
 
-🔬 Researching agentic AI for static analysis and formal verification  
-🛠 Building SpecForge — agentic formal verification for Java & Kotlin programs  
-💼 Open to Summer 2026 & 2027 internships in Software Engineering, Applied Science, or GenAI
-
----
-
-*Board games enthusiast and travel explorer ✈️*
+🔬 Program analysis and AI4SE research at LSU  
+💼 Open to Summer 2026 & 2027 internships — Software Engineering, Applied Science, GenAI
