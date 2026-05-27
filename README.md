@@ -60,7 +60,7 @@ Krishna Upadhyay, Moshood Fakorede, Umar Farooq
 
 ---
 
-## Honors & Service
+<!-- ## Honors & Service
 
 🏆 Sigma Xi, The Scientific Research Honor Society, 2026  
 🏆 Phi Kappa Phi, Top 10% Graduate Students, LSU, 2026  
@@ -78,7 +78,7 @@ Teaching Assistant, LSU Department of Computer Science & Engineering
 - **CSC 3380: Object Oriented Design** — Spring 2024, Spring 2025
 - **CSC 4101: Programming Languages** — Fall 2024, Fall 2025
 
----
+--- -->
 
 ## Currently
 
