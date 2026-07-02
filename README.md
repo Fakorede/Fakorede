@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Moshood%20Fakorede&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PhD%20Researcher%20%40%20LSU%20%C2%B7%20Software%20Reliability%20%C2%B7%20AI4SE%20%C2%B7%20Program%20Analysis&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:043361,100:337ab7&height=180&section=header&text=Moshood%20Fakorede&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=PhD%20Researcher%20%40%20LSU%20%C2%B7%20Software%20Reliability%20%C2%B7%20AI4SE%20%C2%B7%20Program%20Analysis&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=2C5364&center=true&vCenter=true&width=650&lines=Exploring+neurosymbolic+tools+for+reliable+software;LLMs+%C3%97+static+analysis+%C3%97+formal+verification" alt="typing-svg" />
 
@@ -168,6 +168,6 @@ Teaching Assistant, LSU Department of Computer Science & Engineering
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:337ab7,100:043361&height=100&section=footer" width="100%"/>
 
 </div>
