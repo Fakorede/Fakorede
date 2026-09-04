@@ -158,8 +158,8 @@ Teaching Assistant, LSU Department of Computer Science & Engineering
 
 ## ⚡ Currently
 
-🔬 Working on VeriLens, a neurosymbolic study pairing LLM-synthesized specifications with the SnaKt/Viper/Z3 formal verifier
-<br/>
+<!-- 🔬 Working on VeriLens, a neurosymbolic study pairing LLM-synthesized specifications with the SnaKt/Viper/Z3 formal verifier
+<br/> -->
 🧑‍🏫 Mentoring undergraduate students on Kotlin and Java static analysis research
 <br/>
 💼 Open to Summer 2027 internships
